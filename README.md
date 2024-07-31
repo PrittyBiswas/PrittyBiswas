@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pritty Biswas(Moni)</h1>
-<h3 align="center">Full-Struck developer from Bangladesh</h3>
+<h3 align="center">Full-Stack developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWEzd2t4YjZ6NjJ2cHRoeDU5N21nemo5YXZ2NmZraXZpODNtZDdydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.webp">
 - 🔭 I’m currently **B.tach (CSE) Student**
 

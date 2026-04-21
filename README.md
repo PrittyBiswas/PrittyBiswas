@@ -27,7 +27,7 @@
 
 ### 🌐 Connect with Me
 
-<p align="center" style="display: flex; center; gap:10;">
+<p align="center" gap:10;">
   <a href="https://linkedin.com/in/pritty-biswas-090" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
   </a>
@@ -49,7 +49,7 @@
 
 ### 🛠️ Languages & Tools
 
-<p align="center" style="display: flex; gap:10;">
+<p align="center"gap:10;">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>

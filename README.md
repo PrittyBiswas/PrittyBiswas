@@ -1,13 +1,10 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Pritty%20Biswas&fontSize=40&fontAlignY=35&desc=Full-Stack%20Developer%20(MERN)&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Hi%20👋,%20I'm%20Pritty%20Biswas&fontSize=40&fontAlignY=35&desc=Full-Stack%20Developer%20(MERN)&descAlignY=55&descAlign=50" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Pritty Biswas (Moni)</h1>
-<h3 align="center">Full-Stack Developer (MERN)</h3>
-
 <p align="center">
-  Passionate Full-Stack Developer focused on building scalable, user-friendly web applications.  
+  Passionate Full-Stack Developer focused on building scalable, user-friendly web applications. <br/>
   I enjoy transforming ideas into real-world products using modern technologies and clean code.
 </p>
 
@@ -15,7 +12,7 @@
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 - 🎓 B.Tech (CSE) Student  
 - 💻 Full-Stack Developer (MERN Stack)  
 - 🔭 Currently working on **Parcel Delivery Web App**  
@@ -25,20 +22,20 @@
 
 ---
 
-### 🌐 Connect with Me
+## 🌐 Connect with Me
 
-<p align="center" gap:10;">
+<p align="center">
   <a href="https://linkedin.com/in/pritty-biswas-090" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
   </a>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://fb.com/prittybiswas090" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
   </a>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://instagram.com/prittybiswas090" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
@@ -47,10 +44,10 @@
 
 ---
 
-### 🛠️ Languages & Tools
+## 🛠️ Languages and Tools
 
-<p align="center"gap:10;">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
 
@@ -84,7 +81,7 @@
 
 ---
 
-### 📈 GitHub Activity
+## 📈 GitHub Activity
 
 <p align="center">
   <img src="https://github.com/PrittyBiswas/PrittyBiswas/blob/output/github-contribution-grid-snake.svg" />

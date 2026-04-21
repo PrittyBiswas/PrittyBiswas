@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Hi%20👋,%20I'm%20Pritty%20Biswas&fontSize=40&fontAlignY=35&desc=Full-Stack%20Developer%20(MERN)&descAlignY=55&descAlign=50" />
 </p>
-
 <p align="center">
   Passionate Full-Stack Developer focused on building scalable, user-friendly web applications. <br/>
   I enjoy transforming ideas into real-world products using modern technologies and clean code.
@@ -24,7 +23,7 @@
 
 ## 🌐 Connect with Me
 
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/pritty-biswas-090" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
   </a>
@@ -46,7 +45,7 @@
 
 ## 🛠️ Languages and Tools
 
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
@@ -83,6 +82,6 @@
 
 ## 📈 GitHub Activity
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/PrittyBiswas/PrittyBiswas/blob/output/github-contribution-grid-snake.svg" />
 </p>
